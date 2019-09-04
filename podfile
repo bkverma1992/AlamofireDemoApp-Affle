@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+
+target "AlamofireDemoApp" do
+  pod 'AlamofireSwiftyJSON'
+  pod 'ObjectMapper'
+  pod 'RealmS', '~> 4.0.0'
+
+end

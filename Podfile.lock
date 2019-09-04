@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireSwiftyJSON (1.0.2):
+    - Alamofire (~> 4.0)
+    - SwiftyJSON (~> 4.0)
+  - ObjectMapper (3.4.2)
+  - Realm (3.15.0):
+    - Realm/Headers (= 3.15.0)
+  - Realm/Headers (3.15.0)
+  - RealmS (4.0.1):
+    - ObjectMapper (~> 3.0)
+    - RealmSwift (~> 3.0)
+  - RealmSwift (3.15.0):
+    - Realm (= 3.15.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - AlamofireSwiftyJSON
+  - ObjectMapper
+  - RealmS (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireSwiftyJSON
+    - ObjectMapper
+    - Realm
+    - RealmS
+    - RealmSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireSwiftyJSON: 74ee3804bed06d07857daf1eeb1615c85dba3997
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  Realm: 9b834e1be6062f544805252c812348872dc5d4ed
+  RealmS: a5ce0e34359676b6d52778dab92c4e36b779bbd9
+  RealmSwift: 8a41886f8ab6efef9eb8df97de2f2bb911561a79
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 182917232d070989b767908ee9d4777baa1852f2
+
+COCOAPODS: 1.6.1
